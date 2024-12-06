@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    padding: 20px;
+}
+.menu > ul{
+display: flex;
+}
+.menu > ul >li{
+list-style-type: none;
+padding: 30px;
+
+}

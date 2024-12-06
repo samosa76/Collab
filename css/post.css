@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: grey;
+}
+
+.container>.row>div {
+    height: 80px;
+}
+
+.flex-auto {
+    flex: auto;
+    margin: 5px;
+}
+
+.row {
+    display: flex;
+    margin: 5px;
+}
+
+.color-1 {
+    background-color: #427aa1;
+}
+
+.color-2 {
+    background-color: #ddfff7;
+}
+
+.color-3 {
+    background-color: #8fc0a9;
+}

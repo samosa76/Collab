@@ -1,0 +1,72 @@
+.container {
+    display: flex;
+
+}
+
+.row {
+    display: flex;
+}
+
+.color-1 {
+    background-color: brown;
+    height: 200px;
+    width: 150px;
+
+
+
+
+
+}
+
+.color-2 {
+    background-color: aquamarine;
+    height: 200px;
+    width: 150px;
+
+    
+    
+
+
+
+}
+
+.color-3 {
+    background-color: darkmagenta;
+    height: 200px;
+    width: 150px;
+
+
+
+
+}
+
+.color-4 {
+    background-color: black;
+    height: 200px;
+    width: 150px;
+
+
+
+
+
+
+}
+
+.color-5 {
+    background-color: brown;
+    height: 200px;
+    width: 150px;
+   
+
+}
+
+
+div {
+    flex: auto;
+    height: 60px;
+    margin: 8px;
+
+
+
+
+}
